@@ -22,6 +22,29 @@ A comprehensive Java-based hotel management system(Management-side) with a **Jav
 
 
 
+
+
+
+## Application Demo
+
+
+<div align="center">
+
+<img src="assets/gifs/guest.gif" alt="Guest Dashboard Demo" width="800" />
+
+<br><br>
+
+<img src="assets/gifs/admin.gif" alt="Admin Dashboard Demo" width="800" />
+
+<p>
+<b>Guest Portal</b> • <b>Admin Portal</b>
+</p>
+
+</div>
+
+
+
+
 ## Features
 
 ## 🤼 Guest Portal
@@ -59,8 +82,8 @@ separators, and viewport backgrounds. Eliminated unwanted container outlines and
 
 Expanded the Admin Dashboard into a more realistic management system by adding workflow action panels:
 
-```bash
-# Staff Management
+```
+## Staff Management
 Add Staff
 Assign Roles
 Attendance Tracking
